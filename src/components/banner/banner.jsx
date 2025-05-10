@@ -8,7 +8,7 @@ export const BannerHero = () => {
                     Buy your dream plants
                 </h1>
                 <svg width="28" height="28">
-                    <use href="/src/assets/icons/sprite.svg#search" />
+                    <use href="/src/assets/icons/sprite.svg#twitter" />
                     {/* <use xlinkHref={`${sprite}#start`} /> */}
                 </svg>
             </main>
