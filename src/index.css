@@ -50,4 +50,6 @@ body {
   --color-secondary: #1E1E1E;
   --color-secondary-75: #1E1E1EBF;
   --color-secondary-50: #1E1E1E80;
+  --text-3.5xl: 2rem;
+  --radius-10xl: 12.5rem;
 }
