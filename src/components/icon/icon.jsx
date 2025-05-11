@@ -1,9 +1,7 @@
-export const Icon = ({ icon, alt, className }) => {
+export const Icon = ({ name, width = 24, height = 24 }) => {
     return (
-        <img
-            src={`/src/assets/icons/${icon}.svg`}
-            alt={alt}
-            className={`w-6 h-6 ${className}`}
-        />
+        <svg width={width} height={height}>
+            <use href={`/src/assets/icons/sprite.svg#${name}`} />
+        </svg>
     );
-}
+};
