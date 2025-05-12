@@ -1,4 +1,4 @@
-import { Icon } from "../icon/icon";
+import { Icon } from "../icon/Icon";
 import { Logo } from "../logo/logo";
 
 export const Header = () => (
