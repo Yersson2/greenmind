@@ -1,0 +1,22 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Natural Plants",
+            "price": "1400",
+            "image": "Frame-9.webp"
+        },
+        {
+            "id": 2,
+            "name": "Artificial Plants",
+            "price": "900",
+            "image": "Frame-8.webp"
+        },
+        {
+            "id": 3,
+            "name": "Artificial Plants",
+            "price": "3500",
+            "image": "Frame-7.webp"
+        }
+    ]
+}

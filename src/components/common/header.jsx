@@ -1,5 +1,5 @@
 import { Icon } from "../icon/Icon";
-import { Logo } from "../logo/logo";
+import { Logo } from "../logo/Logo";
 
 export const Header = () => (
     <header className="bg-white max-w-7xl mx-auto flex py-10 w-full">
